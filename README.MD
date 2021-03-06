@@ -1,6 +1,6 @@
 
-# Livro de Receitas :man cook
+# Livro de Receitas :man_cook
 
-Olá! bem vindo ao meu lovro de receitas
+Olá! bem vindo ao meu livro de receitas
 
  - Strognoff de frango
